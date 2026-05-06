@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/5: today i took an R test and just prepared for internships.  
-
 5/4: today i restarted to aesthetically study Chinese and English (using Apps), studying only econometrics might be bad for our mental health cuz this learning curve should be nonlinear and these kinds of slack are important:'). and today prepared for next week's presentation and tmr's quiz. and probably for my research question, Heckit is not the best method(but still hard to strictly explain..), and i will need to polish identification strategy.  
 5/3: today i finally finished rewriting sueishi 6th chapter, but actually getting understood was too hard and for now i strongly go back to yabu-textbook, in the near future! and gradually understand my actual identification strategy is not based on Heckit probably on other methods. but tmr i wanna consider and make a presentation again.  
 5/2: quickly reviewed ols.  
