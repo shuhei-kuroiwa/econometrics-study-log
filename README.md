@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+5/14: i kept using codex and made him to summary one Data scientist or Economist in daily mail, because these days i feel keeping motivation is really difficult, for me using statistics and econometrics in business field is the most impressive way, and feel overwhelmed when in theory studying. and motivation won't be so important and i should carry on steadily. however this is also method to carry on steadily.  
+
 5/13: i finished light reviewing econometrics resumes. and started to use Codex to improve lifestyle. i haven't yet used this to econometrics study, but it must be so useful such a studying method.  
 5/12: today i prepared for tmr's Ecobometrics class.  
 5/11: i reviewed econometrics resume from 6th to 7th one.  
