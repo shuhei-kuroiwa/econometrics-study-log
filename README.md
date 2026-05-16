@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+5/16: today i just fixed Codex auto mail function and improved my seminar activity‘s presentation like why i switched my method from heckit to pure DML. and practiced R and learned how to use robust se with R and other probability models, like LPM and probit and logit.  
+
 5/15: following yesterday, i kept using Codex but this Auto-mail function is not so stable and i started considering to buy desktop pc(i’ve never had!) to maintain AI agent. but i have no money for now, so probably someday(after returning to Japan). and in econometrics fields, i need to review class contents and make 2 presentations for my home univ’s one and econometrics’ one.. so it’s quite hard for now cuz i have no time to review basic textbook carefully and getting understood such a contents with high speed studying is really stressful. thus i truly wanna have an air for my field.  
 5/14: i kept using codex and made him to summary one Data scientist or Economist in daily mail, because these days i feel keeping motivation is really difficult, for me using statistics and econometrics in business field is the most impressive way, and feel overwhelmed when in theory studying. and motivation won't be so important and i should carry on steadily. however this is also method to carry on steadily.  
 5/13: i finished light reviewing econometrics resumes. and started to use Codex to improve lifestyle. i haven't yet used this to econometrics study, but it must be so useful such a studying method.  
