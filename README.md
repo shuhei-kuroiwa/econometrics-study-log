@@ -6,8 +6,10 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
-5/18: today i took a quiz on Probit and Rogit and LPM. but just found i didn't understand how to calculate clearly so it was good to learn, but i am a little bid afraid of score.  
-5/17: i reviewed Exonometris 10th slide and prepared for tmr's test. and joined seminar as usual and my prof told me to summarize DML and have a presentation in our seminar easily, cuz it is still hard to understand that method and explaining it will help me to understand that way, and this could be my main direction of paper. thus i was convinced (however i don't know how many time it will take, probably making only concept presentation should be a better way).  
+5/20: i reviewed newest ta session slide.  
+
+5/19: today i took a quiz on Probit and Rogit and LPM. but just found i didn't understand how to calculate clearly so it was good to learn, but i am a little bid afraid of score.  
+5/18: i reviewed Exonometris 10th slide and prepared for tmr's test. and joined seminar as usual and my prof told me to summarize DML and have a presentation in our seminar easily, cuz it is still hard to understand that method and explaining it will help me to understand that way, and this could be my main direction of paper. thus i was convinced (however i don't know how many time it will take, probably making only concept presentation should be a better way).  
 5/17: i reviewed Exonometris 9th slide and prepared for next week's test.  
 5/16: today i just fixed Codex auto mail function and improved my seminar activity‘s presentation like why i switched my method from heckit to pure DML. and practiced R and learned how to use robust se with R and other probability models, like LPM and probit and logit.  
 5/15: following yesterday, i kept using Codex but this Auto-mail function is not so stable and i started considering to buy desktop pc(i’ve never had!) to maintain AI agent. but i have no money for now, so probably someday(after returning to Japan). and in econometrics fields, i need to review class contents and make 2 presentations for my home univ’s one and econometrics’ one.. so it’s quite hard for now cuz i have no time to review basic textbook carefully and getting understood such a contents with high speed studying is really stressful. thus i truly wanna have an air for my field.  
