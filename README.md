@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/22: i made a quiz prediction questions and prepared for next week's quiz.  
-
 5/21: i fineshwd reviewing ta session's slide and learned how to use FE with R.  
 5/20: i reviewed newest ta session slide.  
 5/19: today i took a quiz on Probit and Rogit and LPM. but just found i didn't understand how to calculate clearly so it was good to learn, but i am a little bid afraid of score.  
