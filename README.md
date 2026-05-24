@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+5/24: i solved some R questions.  
+
 5/23: i solved R grammer questions and prepared for next week's quiz.  
 5/22: i made a quiz prediction questions and prepared for next week's quiz.  
 5/21: i fineshwd reviewing ta session's slide and learned how to use FE with R.  
