@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/25: i answered some R questions and joined seminar as usual. however today i feel a little bit tired, so will sleep quickly and tomorrow i wanna get ready for quiz.  
-
 5/24: i answered some R questions.  
 5/23: i answered R grammer questions and prepared for next week's quiz.  
 5/22: i made a quiz prediction questions and prepared for next week's quiz.  
