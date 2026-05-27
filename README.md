@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/26: today i finished making a presentation on east and west wage gap before industrialization for econometrics class. the paper was interesting but cannot have enough time to understand identification strategy on it, so i wanna review that soneday. and reading AEA website is more interesting than expected, i want to upload the slides on this github after finishing tomorrow presentation. and today i took final econometrics R test, but terribly hard..  
-
 5/25: i answered some R questions and joined seminar as usual. however today i feel a little bit tired, so will sleep quickly and tomorrow i wanna get ready for quiz.  
 5/24: i answered some R questions.  
 5/23: i answered R grammer questions and prepared for next week's quiz.  
