@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+5/30: i finnaly finished 3rd and 4th homework of CML. 4th was specially difficult because i need to find new dataset and apply GRF, and homework needed either an unconfoundedness or an instrumental variable setting. both were too hard(especially when i need mew dataset), so i used steam dataset and treated unconfoundedness as strong assumption.  
+
 5/29: following yesterday, i answered 2 questions of CML homework, and took a rest after all.  
 5/28: following yesterday, i answered some of questions of CML homework.  
 5/27: today finally i finished presentation on East and West wage gap before industrialization. the contents were about how equal landownership affect birth rate and income inequality downward. method was IV and not hard to understand. and i felt reading paper (or summary )is not ao bad and i wanna try again like this chance.  
