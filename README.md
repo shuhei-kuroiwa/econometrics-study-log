@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 5/31: i prepared for final exam of CML and econometrics. for CML class, i reviewed basic assumptions like unconfoundedness and overap, and for example relevance and exogeneity assumptions, actually remembering these spells is more difficult than understanding..  econometrics allows me to bring one cheat sheet but CML doesn't. and today i felt econometrics is interesting for the first time in a while, probably this 2 months were too busy and these days i completely thought econometrics is quite hard to understand really need to get quickly because i had no enough time, however now it's different. and after this exam(so after 4 days) i sincerely wanna review faculty level econometrics textbook (written by Yabu), now i will feel impressed to find the connections between knowledge.  
-
 5/30: i finnaly finished 3rd and 4th homework of CML. 4th was specially difficult because i need to find new dataset and apply GRF, and homework needed either an unconfoundedness or an instrumental variable setting. both were too hard(especially when i need mew dataset), so i used steam dataset and treated unconfoundedness as strong assumption.  
 5/29: following yesterday, i answered 2 questions of CML homework, and took a rest after all.  
 5/28: following yesterday, i answered some of questions of CML homework.  
