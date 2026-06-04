@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/4: i started faculty level econometrics textbook and reviewed 1st chapter of Yabu's econometrics.  
+
 6/3: today finally i took the last NTU exam, econometrics, which was too difficult to answer all the questions and i only had 3 mins to review written answers and typos. but some of questions were interesting, like estimate' unbiasedness question and IV questions. so in the close future i wanna start reviewing econometrics faculty level textbook.  
 6/2: today i reviewed whole contents of econometrics like LPM, rogit, probit, IV, interpreting loglog model, and so on. to prepare for tmr’s econometrics exam. and it is my final exam of NTU! so i wanna do my best.  
 6/1: today i answered some of econometrics classworks, especially measurement error questions were interesting and difficult, because usually i don't really mind how that occurs problems and i didn't know that Yi errors are not so important and Xi errors are more disruptive.  
