@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/7: following yesterday, ive just checked 3rd chapter of Yabu textbook.  
-
 6/6: ive just checked 3rd chapter of Yabu textbook.  
 6/5: today i was obsessed with codex,, tmr im gonna restart econometrics textbook.  
 6/4: i started faculty level econometrics textbook and reviewed 1st chapter of Yabu's econometrics.  
