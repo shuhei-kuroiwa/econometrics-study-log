@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/10: i traveled today and had no time to study so just checked some parts of textbook.  
+
 6/8: today i started to do final assignment of CML class, homework was about Double Lasso and GRF, how to use Double Lasso and how it works with too many covariates. and it was good chance to know difference between these methods(like GRF, double lasso, DML, propensity score matching and so on).  
 6/7: following yesterday, ive just checked 2nd chapter of Yabu textbook.  
 6/6: ive just checked 2nd chapter of Yabu textbook.  
