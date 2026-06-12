@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/11: finally intern job started, and was hard to have enough time to study econometrics, but tmr probably i will check AB test contents via intern onboarding.  
-
 6/10: i finally submitted the last CML homework and restart reviewing econometrics textbook. again, i reviewed the difference between CML and OLS, because both uses partialing out method and actually i thought those don’t have such a big difference, and CML is just applied version of causal inference, ML is not so important especially in empirical studies, and id strategy and data wrangling are more important, however Neyman orthogonality and cross fitting(probably it is just like cross varidation?) are necessary to understand well, but still not yet. thus i wanna keep studying these concepts.  
 6/9: i traveled today and had no time to study so just checked some parts of textbook.  
 6/8: today i started to do final assignment of CML class, homework was about Double Lasso and GRF, how to use Double Lasso and how it works with too many covariates. and it was good chance to know difference between these methods(like GRF, double lasso, DML, propensity score matching and so on).  
