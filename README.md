@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/13: today i made presentation slide for seminar, which is about basic causal inference and important assumptions to estimate. this is part one of slides, but enough hard to make, because these basics depend on econometrics context, and explaining is harder than expected. however managed to make slides, so probably tmr i wanna start making 2nd part.  
+
 6/12:today i worked at internship, but causal inference methods was hard to understand especially in coding, so next time i wanna implement by coding and try again.  
 6/11: finally intern job started, and was hard to have enough time to study econometrics, but tmr probably i will check AB test contents via intern onboarding.  
 6/10: i finally submitted the last CML homework and restart reviewing econometrics textbook. again, i reviewed the difference between CML and OLS, because both uses partialing out method and actually i thought those don’t have such a big difference, and CML is just applied version of causal inference, ML is not so important especially in empirical studies, and id strategy and data wrangling are more important, however Neyman orthogonality and cross fitting(probably it is just like cross varidation?) are necessary to understand well, but still not yet. thus i wanna keep studying these concepts.  
