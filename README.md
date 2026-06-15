@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/14: i learned how to use synthetic control model with Python, and did some environment setup. and my body condition suddenly got worse, probably because long work at too cold cafeteria. so i wanna take a rest, ASAP!
-
 6/13: today i made presentation slide for seminar, which is about basic causal inference and important assumptions to estimate. this is part one of slides, but enough hard to make, because these basics depend on econometrics context, and explaining is harder than expected. however managed to make slides, so probably tmr i wanna start making 2nd part.  
 6/12:today i worked at internship, but causal inference methods was hard to understand especially in coding, so next time i wanna implement by coding and try again.  
 6/11: finally intern job started, and was hard to have enough time to study econometrics, but tmr probably i will check AB test contents via intern onboarding.  
