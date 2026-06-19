@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/18: i did some modeling for analysis, i feel like for me, coding and reproducibility are more important than understanding model itself.  
-
 6/17: i learned some data wrangling codes.  
 6/16: today i’ve checked some codes on my RQ.  
 6/15: today i joined seminar as usual, and made a presentation on causal inference theory, from basic level. but probably my slides have some important, but difficult equations, and assumptions. and the amount of writing was too much, so i’m going to remake it as less mathematical but easier to understand one, and i was going to present my RQ in 4th, but my RQ should be put on the first page, and dataset as well. gonna consider audience’ knowledge, and make it simpler.  
