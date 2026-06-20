@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/20: i just checked seminar slides for CI review.  
+
 6/19: today i took a rest, just managed some plans of my internship.  
 6/18: i did some modeling for analysis, i feel like for me, coding and reproducibility are more important than understanding model itself.  
 6/17: i learned some data wrangling codes.  
