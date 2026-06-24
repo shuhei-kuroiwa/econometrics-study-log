@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/23: today i worked at internship, and did some tuning on a model. and i felt it is like a kaggle, i wanna join Pokemon Card Competition if i had enough time to!  
-
 6/22: i finished writing documents for univ and restart coding a little bit.  
 6/21: today i just wrote some documents to submit for university, it took more time than i expected.  
 6/20: i just checked seminar slides for CI review.  
