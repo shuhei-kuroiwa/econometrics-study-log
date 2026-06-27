@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/27: i kept reading Game Marketing paper to think about my RQ, and started to make a simple presentation and try to understand their ID strategy. they use two different game market(XBOX and PS2, so old!) and used DID, tmr i wanna get understand ID.  
+
 6/26: today i read abstract of related to Steam paper, because methodology paper is not so interesting for me now, and i wanna read some other of this research.  
 6/25: today i took a whole day rest for me.  
 6/24: i started quick review of CML paper.   
