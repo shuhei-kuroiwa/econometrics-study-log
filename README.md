@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 6/26: today i read abstract of related to Steam paper, because methodology paper is not so interesting for me now, and i wanna read some other of this research.  
-
 6/25: today i took a whole day rest for me.  
 6/24: i started quick review of CML paper.   
 6/23: today i worked at internship, and did some tuning on a model. and i felt it is like a kaggle, i wanna join Pokemon Card Competition if i had enough time to!  
