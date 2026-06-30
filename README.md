@@ -6,6 +6,8 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+6/30: today i kept making a presentation for seminar, about game marketing paper. it is about the relationship between Review counts and demand. and i can learn how economics researchers think about game marketing research. for example, game is experience goods and they used nested logit demand model, i have never thought this RQ from such a perspective, so really interesting. moreover, this is strictly important for my research, because i am using Review count as Proxy of sales, and how Review count works and could it be Proxy of sales are really important, thus, from such a perspective, i wanna read this paper.  
+
 6/29: i joined my seminar activity and listened to others' press, currently im not that interested in macroeconomics but presentation was interesting, still culd not understand tho.  
 6/28: i worked at internship, and analyzed some data.  
 6/27: i kept reading Game Marketing paper to think about my RQ, and started to make a simple presentation and try to understand their ID strategy. they use two different game market(XBOX and PS2, so old!) and used DID, tmr i wanna get understand ID.  
