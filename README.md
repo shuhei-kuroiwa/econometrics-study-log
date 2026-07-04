@@ -7,7 +7,6 @@ Current focus: Heckman 2-stage + DML for Steam discount effect analysis.
 A learning record of econometrics and causal machine learning.
 
 7/3: I worked at internship and made a report to tell how intervention is effective o rnot and how to improve that intervention.  
-
 7/2: I worked at internship and learned how to make effective report. it is my first time to make a report with my analysis (not other's paper), so tough but probably efficient for my life.  
 7/1: today i totally use time to take a rest, because ive just returned to yesterday. i will restart  authentic internship from tomorrow.  
 6/30: today i kept making a presentation for seminar, about game marketing paper. it is about the relationship between Review counts and demand. and i can learn how economics researchers think about game marketing research. for example, game is experience goods and they used nested logit demand model, i have never thought this RQ from such a perspective, so really interesting. moreover, this is strictly important for my research, because i am using Review count as Proxy of sales, and how Review count works and could it be Proxy of sales are really important, thus, from such a perspective, i wanna read this paper.  
