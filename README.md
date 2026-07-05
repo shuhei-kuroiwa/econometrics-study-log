@@ -6,6 +6,8 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+7/5: I completed a presentation slide for tmr. and It was so interesting because paper about Game market suggests that Reviews on unpopular games are more important than popular games, and negative is stronger than positive. they use DiD and Logit model to estimate, ID strategy was also insightful.  
+
 7/4: I worked at internship as usual, but these days i feel I can't study, so probably I will finish some transition procedures tomorrow, so next week I wanna restart making presentation slide and studying econometrics.  
 7/3: I worked at internship and made a report to tell how intervention is effective o rnot and how to improve that intervention.  
 7/2: I worked at internship and learned how to make effective report. it is my first time to make a report with my analysis (not other's paper), so tough but probably efficient for my life.  
