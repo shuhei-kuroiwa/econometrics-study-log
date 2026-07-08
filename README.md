@@ -6,6 +6,8 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+7/8: I worked at internship, and tried to make a presentation slide to explain model and analysis for Non DS workers. It was too hard because grabbing prequisite knowledge is difficult, so explaining all of statistical words should be the most logical way, But annoying. Writing those takes more time than i expected, and make me understand which points i didn’t understand in the methods.  
+
 7/7: I worked and learned basic SQL. For me, understanding concepts of SQL was the hardest and I felt coding is not that hard. but memorizing them should be difficult.  
 7/6: today i made a presentation about game paper, and found some points that still I don’t understand. for instance, that paper uses nested logit model and dependent variable was the difference between the option of Game and the option of “not buying any games” so i don’t know what will happen if we remove the option of “not buying any games”. and seminar friend asked me and i couldn’t answer completely.  
 7/5: I completed a presentation slide for tmr. and It was so interesting because paper about Game market suggests that Reviews on unpopular games are more important than popular games, and negative is stronger than positive. they use DiD and Logit model to estimate, ID strategy was also insightful.  
