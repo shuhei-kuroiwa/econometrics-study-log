@@ -6,6 +6,8 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+7/11: Today I planed to change my paper data from Steam to Criteo. Because steam data set was really hard data set to use causal inference. so I just wanna try to use and compare estimate method in this paper.  
+
 7/10: I started light study on New Sueishi textbook.  
 7/9: I finished making presentation slide on an internship, composition of analysis was hard, like putting only main analysis or not, and explaining every single statistical words or not. btw it was done and just waiting review. and I went to univ and asked Prof about research, these days I can’t take enough time to research,,  
 7/8: I worked at internship, and tried to make a presentation slide to explain model and analysis for Non DS workers. It was too hard because grabbing prequisite knowledge is difficult, so explaining all of statistical words should be the most logical way, But annoying. Writing those takes more time than i expected, and make me understand which points i didn’t understand in the methods.  
