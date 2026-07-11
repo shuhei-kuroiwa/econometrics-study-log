@@ -1,6 +1,8 @@
+# macOS metadata
 .DS_Store
-*.csv
-.DS_Store
+
+# Large/raw datasets
+0.data/
+
+# Specific generated dataset
 1.implementations/steam_games_cleaned.csv
-.DS_Store
-*.csv
