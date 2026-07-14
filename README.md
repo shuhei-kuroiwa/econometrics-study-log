@@ -6,6 +6,8 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+7/14: today Ive just checked some codes on my notebook.  
+
 7/13: I checked data column. but I can’t get the overspection of research. because that lack the names of features, and still can’t find the way, how it could be used for causal inference?  
 7/12: I checked new data of criteo.  
 7/11: Today I planed to change my paper data from Steam to Criteo. Because steam data set was really hard data set to use causal inference. so I just wanna try to use and compare estimate method in this paper.  
