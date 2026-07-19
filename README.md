@@ -6,6 +6,8 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 # cml_study_log
 A learning record of econometrics and causal machine learning.
 
+7/19: Today, I wrote a document for my graduate school application about my research question and future plans.  
+
 7/18: I quickly read one arXiv paper that is about DML. in this paper, authors use DML to Airbnb data, and authors are Airbnb employees, so it probably can use lots of data in Airbnb, but ID strategy was not so strong and model explanation was a bid sloppy. but it was my first time to read company paper, so making presentation on this slide should be interesting.  
 7/17: worked at internship, and did some analysis, but just found sample size is terribly important.. today’s modeling was so difficult.  
 7/16: I worked at internship, and in the middle of analysis, I found I overlooked important data features and parameters. so it took longer time than i expected, for the next time, I literally gonna check data and document to save my time.  
