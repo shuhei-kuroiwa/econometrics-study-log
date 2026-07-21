@@ -7,7 +7,6 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 A learning record of econometrics and causal machine learning.
 
 7/20: I read the Airbnb paper and made presentation slides about it. The paper’s methodology was genuinely interesting, but it did not include the actual data because the data are confidential to Airbnb. That was a bit unfortunate, but the paper was well written for an industry research paper.  
-
 7/19: Today, I wrote a document for my graduate school application about my research question and future plans.  
 7/18: I quickly read one arXiv paper that is about DML. in this paper, authors use DML to Airbnb data, and authors are Airbnb employees, so it probably can use lots of data in Airbnb, but ID strategy was not so strong and model explanation was a bid sloppy. but it was my first time to read company paper, so making presentation on this slide should be interesting.  
 7/17: worked at internship, and did some analysis, but just found sample size is terribly important.. today’s modeling was so difficult.  
