@@ -7,7 +7,6 @@ Current focus: causal inference, treatment effect estimation, and applied econom
 A learning record of econometrics and causal machine learning.
 
 7/22: Today, I gave a presentation in my seminar and asked my professor about the difference between company papers and academic papers. It was interesting to learn that companies sometimes publish papers to showcase their methods and how quickly they apply them in practice. This is probably true in some cases.  
-
 7/21: I continued reading Sueishi’s machine learning textbook.  
 7/20: I read the Airbnb paper and made presentation slides about it. The paper’s methodology was genuinely interesting, but it did not include the actual data because the data are confidential to Airbnb. That was a bit unfortunate, but the paper was well written for an industry research paper.  
 7/19: Today, I wrote a document for my graduate school application about my research question and future plans.  
