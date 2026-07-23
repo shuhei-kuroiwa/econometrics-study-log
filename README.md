@@ -13,8 +13,6 @@ This repository records my learning process in econometrics and causal machine l
 ## Structure
 
 - `logs/`: daily study logs
-- `notes/`: textbook and paper notes
-- `projects/`: small empirical projects and experiments
 
 ## Current status
 
