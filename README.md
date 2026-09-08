@@ -14,8 +14,9 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
-9/7: I took a whole day rest.
+9/8: I returned home and from tomorrow I wanna restart to study econometrics.  
 
+9/7: I took a whole day rest.  
 9/6: today I checked some parts of text.  
 9/5: Today I took a whole day rest.  
 9/4: I traveled today and continued researching classes for next semester.  
