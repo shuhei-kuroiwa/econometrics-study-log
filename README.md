@@ -15,7 +15,6 @@ Studying causal ML and econometrics toward data-driven decision making in busine
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
 9/10: I worked at my internship and continued running models and conducting the analysis. There were too many KPIs, so running and adjusting the models was a little bit hard, but I settled on one model. I also started writing a report on the first treatment. After that, I read a textbook and solved a normal equation for the first time in a while. It was not smooth, but it has become easier to understand these days, so I felt that studying for a long time was worth it. I also solved why r² and R² are equal in a simple regression model with an intercept. I learned that, from a statistical perspective, we use the mean, and OLSE is a model for the conditional mean. However, this is because we usually set SSR as the loss function. A long time ago, some people used the median or other statistics because they used other loss functions. This was astonishing to me because I had thought that the mean was the standard for all econometric questions, but it is not. We use SSR because it is valid, useful, and easy to calculate.  
-
 9/9: I reviewed simple regression theory and basic statistics. I also finished checking my research planning document, and I want to submit it next week.  
 9/8: I returned home and from tomorrow I wanna restart to study econometrics.  
 9/7: I took a whole day rest.  
