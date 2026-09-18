@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+9/18: I read textbook, and reviewed Adjusted R-squared and multicolineality theory. and I also reviewed some important tips, like the correlation between sales of ice cream and water accidents, and why if R^^2 is 1, it doesn’t work(because it is just identity equation.  
 9/17: I took a whole day rest, slept well.  
 9/16: today I worked at the internship, and reflected some reviews on my report, and i almost of reviews were about data definition and KPIs, in business context, they should be more important I guess.  
 9/15: Today, I continued solving some questions about hypothesis testing theory. After that, I joined the Research Workshop for Young Researchers at Kobe University, but most of the attendees were graduate students, so I could only understand roughly 20% of the content. I felt overwhelmed by most topics, except for the econometrics field. However, I could hear other people’s research questions and career plans, so it was really insightful. I was especially interested in spatial econometrics. Its motivation is a little similar to time series analysis, so it was easier to understand than the other topics. I also felt that theoretical microeconomics is literally difficult. I could not understand their methods, but their research content and motivation were interesting.  
