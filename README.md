@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+9/19: Today, I worked at my internship and wrote a report. I tried to finish writing it, but I could not because the results were simple, and some additional research was needed, such as reviewing individual effects and checking cannibalization. Tomorrow, I want to finish it. After that, I read a textbook and solved two practical questions about the underestimation of coefficients due to bad controls. In these kinds of questions, the story is more important, but I felt that it must be hard to find the right story.  
 9/18: I read textbook, and reviewed Adjusted R-squared and multicolineality theory. and I also reviewed some important tips, like the correlation between sales of ice cream and water accidents, and why if R^^2 is 1, it doesn’t work(because it is just identity equation.  
 9/17: I took a whole day rest, slept well.  
 9/16: today I worked at the internship, and reflected some reviews on my report, and i almost of reviews were about data definition and KPIs, in business context, they should be more important I guess.  
