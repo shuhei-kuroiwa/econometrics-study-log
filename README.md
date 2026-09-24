@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+9/23: Today, I continued reading the textbook and solved one additional question on F-statistics. I also reviewed Chapter 8, which explains why OLS is BLUE and what the Gauss-Markov theorem is. I was reading about why the famous five assumptions are needed to explain the Gauss-Markov theorem, but it looked a little bit difficult. I want to write it out by myself if I can.  
 9/22: I worked at my internship and finished a report. It was the sixth one, so it did not take too much time. I thought that if I could make the analysis process more routine, it would reduce my working time. After that, I reviewed F-tests, especially the Chow test.  
 9/21: I worked at my internship and continued writing a report, but the analysis of the main layer was not consistent with the analyses of the other layers. Therefore, I added another analysis, and I will probably summarize the results tomorrow.  
 9/20: Today, I worked at my internship, added some analyses, and finished writing a report. After that, I started a new data analysis, but the tuning did not go well, so I tried several settings. In the end, I used the settings from the definition document. I also reviewed log-log models and log-linear models and learned what their coefficients mean.  
