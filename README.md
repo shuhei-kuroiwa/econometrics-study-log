@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+9/26: Today, I reviewed autocorrelation and heteroscedasticity. The methods for dealing with them were difficult, so I only understood them roughly. In particular, HAC standard errors were really complicated. I also reviewed GLS, including FGLS and the Cochrane-Orcutt procedure, but I could not understand when to use them in practice.  
 9/25: Today, I returned from traveling, so I just unpacked my bag, organized my belongings, and took a rest.  
 9/24: Today, I checked the Gauss-Markov theorem and how to prove that OLS is BLUE. It was a really beautiful proof, and I recognized that OLS is a useful and beautiful tool. I can easily understand why many economists have focused on BLUE, such as in WLS and other methods.  
 9/23: Today, I continued reading the textbook and solved one additional question on F-statistics. I also reviewed Chapter 8, which explains why OLS is BLUE and what the Gauss-Markov theorem is. I was reading about why the famous five assumptions are needed to explain the Gauss-Markov theorem, but it looked a little bit difficult. I want to write it out by myself if I can.  
