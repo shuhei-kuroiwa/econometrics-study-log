@@ -14,7 +14,8 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
-10/1: Today, I reviewed meta-learners and gave a presentation in my seminar. It was a bit tough because it was my first time in four months going to university for the first period. I really want to sleep soon.  
+10/2: Today, I worked at my internship a little and made a model to predict control group uplift. I also went to university and took a class, but it is annoying to go to university just for one course, so I am going to drop it.  
+10/1: Today, I reviewed meta-learners and gave a presentation in my seminar. It was a bit tough because it was my first time in four months going to university for the first period. I really want to sleep soon.
 9/30: Today, I made presentation slides for the first time in a long while. This is because regular university seminars and classes are going to start tomorrow. I felt that this was a good opportunity to organize my results and thought process, so I want to give a presentation tomorrow.  
 9/29: Today, I worked at my internship and used a LightGBM model to estimate which features are important for participating in the treatment effect. I also summarized all the results. After that, I restarted writing my Criteo paper. I am gradually understanding these kinds of estimands, such as ITT, ATT, and ATE, and the differences among them.  
 9/28: Today, I worked at my internship and started collecting data to compare several types of treatment effects. However, collecting the data was more annoying than analyzing it because I had to run all the notebooks and models, check the code, and so on.  
