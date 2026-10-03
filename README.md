@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/3: Today, I studied with Sueishi’s textbook. I read Chapter 1 and the first half of Chapter 2, which include basic OLS, IV, 2SLS, Wald statistics, and so on. Actually, I could not focus on them very well because these topics were too abstract and complex. I just need to take my time.  
 10/2: Today, I worked at my internship a little and made a model to predict control group uplift. I also went to university and took a class, but it is annoying to go to university just for one course, so I am going to drop it.  
 10/1: Today, I reviewed meta-learners and gave a presentation in my seminar. It was a bit tough because it was my first time in four months going to university for the first period. I really want to sleep soon.
 9/30: Today, I made presentation slides for the first time in a long while. This is because regular university seminars and classes are going to start tomorrow. I felt that this was a good opportunity to organize my results and thought process, so I want to give a presentation tomorrow.  
