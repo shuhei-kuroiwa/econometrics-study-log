@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/7: Today, I took a class that invites alumni from our university. Today’s guest was a person in the financial industry. Actually, I have never been interested in finance, but his thoughts were interesting, and I feel that I barely understood about 70% of his speech.  
 10/6: I took two econometrics classes. One was intuitive and at the undergraduate level, while the other was not that intuitive but was probably motivation-driven and a bit more advanced. I am going to take both. I also made presentation slides for this week’s seminar. The presentation is about ITT using the Criteo data, explaining what ITT is and how to use the RCT structure.  
 10/5: Today, I took a Japanese economic history class. It was interesting, and the professor was kind, but Monday only has this class, so I am wondering whether to drop it. After that, I worked at my internship and added some analyses. I really felt that my supervisors’ comments on my analyses and their knowledge were insightful.  
 10/4: today I could not take enough time to study, so took a rest.  
