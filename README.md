@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/10: Today, I had a cold, so I took a rest.  
 10/9: Today, I worked at my internship and wrote a handover document. I will probably have a presentation next week, so I am going to practice.  
 10/8: Today, I did my internship work and gave a presentation in a seminar, but I feel really bad now. It is probably because it is getting cold too quickly, and I cannot handle it well. So today, I am going to sleep soon.  
 10/7: Today, I took a class that invites alumni from our university. Today’s guest was a person in the financial industry. Actually, I have never been interested in finance, but his thoughts were interesting, and I feel that I barely understood about 70% of his speech.  
