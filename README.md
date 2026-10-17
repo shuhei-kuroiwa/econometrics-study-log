@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/17: Today, I worked on my Criteo code and ran GRF on a smaller sample (300,000 observations). However, the model failed to converge, so I could not check the results. Tomorrow, I am going to try again. I also briefly reviewed the lecture notes for my economic statistics class and ran OLS in Stata. It was my first time using Stata, but it was actually easier to use than R or Python. I felt that this was probably because Stata was designed for statistical and econometric analysis.  
 10/16: Today, I quickly reviewed the lecture notes from my econometrics classes because I missed last week’s classes to recover from my cold. However, studying on my own was quite difficult, especially deriving formulas involving conditional expectations and the law of iterated expectations. Therefore, I will review them carefully tomorrow.  
 10/15: Today, I worked on some documents for my graduate school application and completed some university assignments.  
 10/14: Today, I just took a class and, other than that, took a rest.  
