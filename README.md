@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/22: Today, I asked ChatGPT some questions about my research to prepare for my graduate school interview. Some of the questions were tough, and I found them ambiguous. For example, I had forgotten what SUTVA stands for, and I couldn't explain how to address the problem of demand being brought forward.  
 10/21: today I just took a class.  
 10/20: Today, I took two econometrics classes. The first one was about the properties of estimators, such as unbiasedness and consistency, while the second one was about FE and RE in Stata. Both were interesting.  
 10/19: Today, I worked at my internship and gave a presentation about my work. It mainly focused on the problems I addressed, so it was not that hard to explain. If the presentation had been mainly about technical or data-related issues, I would have needed to be more careful. However, this presentation was about my own experience, so it was relatively easy to explain. After that, I checked the data for a new project. I also reviewed the lecture notes for my econometrics class. They were mainly about the law of averages. The calculations looked a bit difficult, but I realized that I just needed to understand the law of conditional probability, so I found them easier than expected. I also worked on my paper.  
