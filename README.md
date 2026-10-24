@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/24: today I took a rest.  
 10/23: Today, I worked at my internship and read through the analysis definition document. After that, I continued having AI ask me questions about my research proposal. The questions were mainly about research methodology and motivation. My main motivations are to develop my data science skills and to estimate treatment effects. Therefore, I reviewed many concepts and tried to explain them in my own words.  
 10/22: Today, I asked ChatGPT some questions about my research to prepare for my graduate school interview. Some of the questions were tough, and I found them ambiguous. For example, I had forgotten what SUTVA stands for, and I couldn't explain how to address the problem of demand being brought forward.  
 10/21: today I just took a class.  
