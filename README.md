@@ -14,6 +14,7 @@ Economics student at Kobe Univ / NTU exchange.
 Studying causal ML and econometrics toward data-driven decision making in business and policy.  
 Current focus: causal inference, treatment effect estimation, and applied econometrics for business decision-making.  
 
+10/26: Today, I worked at my internship, read some data definitions, and checked several conditions. After that, I watched an on-demand lecture about basic OLS theory, and it was awesome. I had misunderstood OLS and the conditional expectation as being the same thing, but I realized that OLS is based on sample data, while the conditional expectation is a population-level concept.  
 10/25: Today, I continued having ChatGPT ask me questions about my research proposal. I reviewed the assumptions underlying RDD and GRF and thought about how to handle the Steam dataset if I needed to estimate the ATE.  
 10/24: today I took a rest.  
 10/23: Today, I worked at my internship and read through the analysis definition document. After that, I continued having AI ask me questions about my research proposal. The questions were mainly about research methodology and motivation. My main motivations are to develop my data science skills and to estimate treatment effects. Therefore, I reviewed many concepts and tried to explain them in my own words.  
